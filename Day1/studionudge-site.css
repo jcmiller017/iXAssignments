@@ -1,0 +1,17 @@
+#selections {
+	display: inline;
+	text-align: center;
+	word-spacing: 4em
+	margin-left:250px;
+}
+
+#heading {
+	display: inline;
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+	margin-left: 250px;
+	margin-right: 250px;
+}
