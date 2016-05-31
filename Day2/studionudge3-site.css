@@ -1,0 +1,80 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.wrapper {
+	margin:auto;
+}
+
+.header {
+	padding: 10px;
+}
+
+.header-table{
+	margin: auto;
+}
+
+.nudge {
+	text-align: left;
+	font-family: Brush Script MT, cursive;
+	font-size: 45px;
+	display: inline-block;
+	padding-right: 50px;
+}
+
+.navbar {
+	margin-left: 300px;
+}
+
+.work {
+	padding:25px;
+	padding-left:200px;
+}
+
+.about {
+	padding:25px;
+}
+
+.contact {
+	padding: 25px;
+}
+
+.journal {
+	padding: 25px;
+}
+
+.social {
+	padding-left: 130px;
+}
+
+.intro {
+	padding: 50px;
+	text-align: center;
+	font-size: 30px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+.row1-table {
+	width: 100%;
+	margin: auto;
+}
+
+.footer {
+	padding: 50px;
+	font-size: 15px;
+	text-align: center;
+}
+
+.footer1 {
+	padding: 10px;
+}
+
+.footer2 {
+	padding:10px;
+}
+
+
+
+
