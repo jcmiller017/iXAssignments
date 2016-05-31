@@ -1,0 +1,28 @@
+h1{
+	font-size:70px;
+	font-family: sans-serif;
+}
+h2{
+	color: gray;
+}
+#bounce {
+	border: solid gray;
+	width: 200px;
+	float: left;
+	margin-left: 300px;
+	
+}
+
+#animate {
+	border: solid gray;
+	width: 200px;
+	float: right;
+	margin-right: 300px;
+	
+}
+
+#bottom {
+	color: gray;
+	clear:both;
+}
+
