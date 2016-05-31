@@ -1,0 +1,76 @@
+.header{
+	padding: 70px;
+}
+
+.logo {
+	text-align: left;
+	font-family: Brush Script MT, cursive;
+	font-size: 45px;
+	display: inline-block;
+	padding-right: 50px;
+	color: brown;
+	padding-right: 300px;
+}
+
+.home {
+	padding-left: 20px;
+}
+
+.about{
+	padding-left: 20px;
+}
+
+.menu {
+	padding-left: 20px;
+}
+
+.reservations {
+	padding-left: 20px;
+}
+
+.shop {
+	padding-left: 20px;
+}
+
+.news {
+	padding-left: 20px;
+}
+
+.contact {
+	padding-left: 20px;
+}
+
+.items {
+	padding-left: 20px;
+}
+
+.footer {
+	padding: 50px;
+	background-color: black
+}
+
+.table2 {
+	color: white;
+}
+
+.directions {
+	padding: 70px;
+	
+}
+
+.opening {
+	padding: 70px;
+	padding-right: 100px;
+
+}
+
+.follow {
+	padding: 70px;
+}
+
+.insta {
+	padding: 70px;
+}
+
+
+
