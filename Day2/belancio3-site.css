@@ -2,3 +2,87 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.top-content {
+	padding: 50px;
+	background-color: gray;
+	color: white;
+	font-size: 18px;
+	font-family: Arial;
+
+}
+
+.table1 {
+	font-color: white;
+	font-size: 18px;
+	font-family: Arial;
+}
+
+.logo {
+	color: white;
+	font-size: 18px;
+	font-family: Arial;
+	padding-right: 50px;
+}
+
+.navbar1 {
+	color: white;
+	font-size: 14px;
+	padding-left: 900px;
+}
+
+.navbar2 {
+	color: white;
+	font-size: 14px;
+}
+
+.navbar3 {
+	color: white;
+	font-size: 14px;
+}
+
+.client-content {
+	padding: 50px;
+}
+
+.client-header {
+	font-size: 20px;
+	font-family: Arial;
+}
+
+.client-images {
+	padding-top: 20px
+}
+
+.seafoam-green {
+	background-color: #71EEB8;
+	padding: 100px;
+	color: white;
+}
+
+.beautiful {
+	display: inline-block;
+	padding-right: 50px;
+	font-size: 20px;
+	font-family: Arial;
+}
+
+.work {
+	display: inline-block;
+	padding-left: 200px;
+	padding: 20px;
+	border: solid white;
+	border width: 20px;
+}
+
+.table2 {
+	color: black;
+}
+
+
+
+
+
+
+
+
