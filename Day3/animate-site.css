@@ -1,0 +1,42 @@
+body{
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+
+.wrapper{
+	text-align:center;
+	padding-top: 150px;
+}
+
+.top-content{
+	font-family: Verdana;
+}
+
+.main-header{
+	font-size: 72px;
+	color: pink;
+}
+
+.sub-header{
+	font-size: 18px;
+	color: gray;
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+
+
+.links{
+	padding-top: 10px;
+	padding-bottom:10px;
+	font-family: Verdana;
+	font-size: 14px;
+	color: gray;
+}
+
+.last-header{
+	padding-top: 10px;
+	font-family: Verdana;
+	font-size:10px;
+	color: gray;
+}
