@@ -1,0 +1,17 @@
+
+<div ng-controller="AddressCtrl">
+	<div class="container">
+		<div class="wrapper">
+			<form name="myForm" ng-submit="addItem()"> 
+		
+			<h1> Contact Book </h1>
+		
+			<div> Name: <input type="text" ng-model="name"> </div>
+			<div> Phone Number: <input type="text" ng-model="phone"> </div>
+			<button ng-click="addName()">Add Contact</button>
+			<div> Search: <input ng-model="search"> </div>
+			</form>
+			<ol ng-repeat="item in items | filter:search"> {{item}} </ol>
+		</div>	
+	</div>
+</div>

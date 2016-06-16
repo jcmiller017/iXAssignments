@@ -1,0 +1,16 @@
+
+<div ng-controller="FormCtrl">
+	<div class="container">
+		<div class="wrapper">
+			<form name="myForm" ng-submit="submit()" >
+			<h1> Form Validation </h1>
+			<div> Name: <input type="text" ng-model="name"> </div>
+			<div> Phone Number: <input type="text" ng-model="phone"> </div>
+			<div> Email: <input type="text" ng-model="email"> </div>
+			<div> Password: <input type="password" ng-model="password"> </div>
+			<div> Confirm Password: <input type="password" ng-model="password2"> </div>
+			<button ng-click="submit()">Click to Submit</button>
+			</form>
+		</div>	
+	</div>
+</div>
